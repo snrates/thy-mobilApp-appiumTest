@@ -28,6 +28,10 @@ Yolcu sayısı artır
 * "//*[@text='5']" xpath li elemente tıkla
 * "com.turkishairlines.mobile:id/frDashboard_btnSearch" id li elemente tıkla
 
+Kontrol
+* "com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" id li element "SORT AND FILTER" değerini  içerdiğini kontrol et
+
+Bilet al
 * "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.View" xpath li elemente tıkla
 * "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]" xpath li elemente tıkla
 * "com.turkishairlines.mobile:id/frFlightSearch_btnContinue" id li elemente tıkla

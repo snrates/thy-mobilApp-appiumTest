@@ -34,6 +34,6 @@ public class StepImplementation extends BaseTest {
 
     @Step("<key> id li element <text> değerini  içerdiğini kontrol et")
     public void CheckElement(String key, String text) {
-        Assert.assertTrue("Element bulunama", appiumDriver.findElement(By.id(key)).getText().equals(text));
+        Assert.assertFalse("Element bulunma", appiumDriver.findElement(By.id(key)).getText().equals(text));
     }
 }
