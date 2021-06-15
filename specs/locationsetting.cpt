@@ -1,0 +1,13 @@
+Created by SONER on 15.06.2021
+
+This is a concept file with following syntax for each concept.
+# Yön seçimini yap
+* "com.turkishairlines.mobile:id/frDashboard_tvOneWay" id li elemente tıkla
+* "com.turkishairlines.mobile:id/frDashboard_llFrom" id li elemente tıkla
+
+* "com.turkishairlines.mobile:id/frAirportSelection_etSearch" id li elemente "SAW"  değerini yaz
+* "//*[@text='Istanbul, Turkey']" xpath li elemente tıkla
+
+* "com.turkishairlines.mobile:id/frDashboard_llTo" id li elemente tıkla
+* "com.turkishairlines.mobile:id/frAirportSelection_etSearch" id li elemente "ESB"  değerini yaz
+*  "//*[@text='Ankara, Turkey']" xpath li elemente tıkla

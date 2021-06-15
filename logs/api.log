@@ -3873,3 +3873,931 @@
 15-06-2021 21:59:45.572 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
 15-06-2021 22:02:45.271 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
 15-06-2021 22:02:45.281 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:11.259 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:11.262 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:17.871 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:17.873 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:42.735 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:42.750 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:42.923 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:42.925 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:57.497 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:47:57.500 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:48:13.811 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:48:13.824 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:48:18.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.176 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.189 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.230 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.230 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.231 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.231 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.253 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.253 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.253 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.253 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.387 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.387 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.388 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.388 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.432 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.665 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.665 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.701 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.701 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.702 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.702 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.731 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.731 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:18.732 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 22:48:18.732 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 22:48:19.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"i"}
+15-06-2021 22:48:19.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"i" parameterizedStepValue:"i"}}
+15-06-2021 22:48:19.220 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+15-06-2021 22:48:19.220 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"{} id li elemente tıkla" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_btnContinue> id li elemente tıkla" parameters:"com.turkishairlines.mobile:id/frFlightSearch_btnContinue"} allSteps:{stepValue:"{} id li elemente {}  değerini yaz" parameterizedStepValue:"<com.turkishairlines.mobile:id/frAirportSelection_etSearch> id li elemente <ESB>  değerini yaz" parameters:"com.turkishairlines.mobile:id/frAirportSelection_etSearch" parameters:"ESB"} allSteps:{stepValue:"{} xpath li elemente tıkla" parameterizedStepValue:"</hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]> xpath li elemente tıkla" parameters:"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]"}}
+15-06-2021 22:48:19.221 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+15-06-2021 22:48:19.221 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+15-06-2021 22:48:19.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"id"}
+15-06-2021 22:48:19.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"id" parameterizedStepValue:"id"}}
+15-06-2021 22:48:19.526 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"idl"}
+15-06-2021 22:48:19.526 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"idl" parameterizedStepValue:"idl"}}
+15-06-2021 22:48:19.697 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"idli"}
+15-06-2021 22:48:19.698 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"idli" parameterizedStepValue:"idli"}}
+15-06-2021 22:48:21.097 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+15-06-2021 22:48:21.097 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"{} id li elemente tıkla" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_btnContinue> id li elemente tıkla" parameters:"com.turkishairlines.mobile:id/frFlightSearch_btnContinue"} allSteps:{stepValue:"{} id li elemente {}  değerini yaz" parameterizedStepValue:"<com.turkishairlines.mobile:id/frAirportSelection_etSearch> id li elemente <ESB>  değerini yaz" parameters:"com.turkishairlines.mobile:id/frAirportSelection_etSearch" parameters:"ESB"} allSteps:{stepValue:"{} xpath li elemente tıkla" parameterizedStepValue:"</hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]> xpath li elemente tıkla" parameters:"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]"}}
+15-06-2021 22:48:21.098 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+15-06-2021 22:48:21.098 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+15-06-2021 22:48:21.592 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"id l"}
+15-06-2021 22:48:21.593 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"id l" parameterizedStepValue:"id l"}}
+15-06-2021 22:48:21.599 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+15-06-2021 22:48:21.599 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"{} id li elemente tıkla" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_btnContinue> id li elemente tıkla" parameters:"com.turkishairlines.mobile:id/frFlightSearch_btnContinue"} allSteps:{stepValue:"{} id li elemente {}  değerini yaz" parameterizedStepValue:"<com.turkishairlines.mobile:id/frAirportSelection_etSearch> id li elemente <ESB>  değerini yaz" parameters:"com.turkishairlines.mobile:id/frAirportSelection_etSearch" parameters:"ESB"} allSteps:{stepValue:"{} xpath li elemente tıkla" parameterizedStepValue:"</hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]> xpath li elemente tıkla" parameters:"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]"}}
+15-06-2021 22:48:21.600 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+15-06-2021 22:48:21.600 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+15-06-2021 22:48:21.869 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"id li"}
+15-06-2021 22:48:21.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"id li" parameterizedStepValue:"id li"}}
+15-06-2021 22:48:32.397 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"<key>\" id li element <text> değerini  içerdiğini kontrol et"}
+15-06-2021 22:48:32.398 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<<key>> id li element <text> değerini  içerdiğini kontrol et" parameters:"<key>" parameters:"text"}}
+15-06-2021 22:48:35.042 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:48:35.061 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:48:47.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter\" id li element <text> değerini  içerdiğini kontrol et"}
+15-06-2021 22:48:47.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element <text> değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" parameters:"text"}}
+15-06-2021 22:49:09.703 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:49:09.705 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:49:25.024 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter\" id li element 1 değerini  içerdiğini kontrol et"}
+15-06-2021 22:49:25.025 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element 1 değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element 1 değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter"}}
+15-06-2021 22:49:25.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter\" id li element 1\"\" değerini  içerdiğini kontrol et"}
+15-06-2021 22:49:25.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element 1{} değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element 1<> değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" parameters:""}}
+15-06-2021 22:49:27.032 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter\" id li element \"\" değerini  içerdiğini kontrol et"}
+15-06-2021 22:49:27.033 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element <> değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" parameters:""}}
+15-06-2021 22:49:28.381 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter\" id li element \"SORT AND FILTER\" değerini  içerdiğini kontrol et"}
+15-06-2021 22:49:28.381 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element <SORT AND FILTER> değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" parameters:"SORT AND FILTER"}}
+15-06-2021 22:49:33.583 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 22:49:33.595 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 23:05:01.102 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\start_page.cpt
+15-06-2021 23:05:01.114 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\start_page.cpt
+15-06-2021 23:05:01.122 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\start_page.cpt
+15-06-2021 23:05:04.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"step1"}
+15-06-2021 23:05:04.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"step1" parameterizedStepValue:"step1"}}
+15-06-2021 23:05:04.163 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Concept Heading"}
+15-06-2021 23:05:04.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading"}}
+15-06-2021 23:05:04.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"step2"}
+15-06-2021 23:05:04.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"step2" parameterizedStepValue:"step2"}}
+15-06-2021 23:05:12.293 [Gauge] [INFO] Concept file removed: C:\Users\SONER\Desktop\Education\specs\start_page.cpt
+15-06-2021 23:05:34.532 [Gauge] [INFO] Spec file removed: C:\Users\SONER\Desktop\Education\specs\examp.spec
+15-06-2021 23:05:34.533 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:05:34.534 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:08:03.999 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\starting.cpt
+15-06-2021 23:08:04.006 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\starting.cpt
+15-06-2021 23:08:04.009 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\starting.cpt
+15-06-2021 23:08:44.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:08:44.805 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:08:44.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:08:44.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:00.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Bildirimleri"}
+15-06-2021 23:09:00.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bildirimleri" parameterizedStepValue:"Bildirimleri"}}
+15-06-2021 23:09:03.487 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Bildirimleri kapat ve bilet al"}
+15-06-2021 23:09:03.487 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bildirimleri kapat ve bilet al" parameterizedStepValue:"Bildirimleri kapat ve bilet al"}}
+15-06-2021 23:09:04.390 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Bildirimleri kapat ve bilet al tıkla"}
+15-06-2021 23:09:04.391 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bildirimleri kapat ve bilet al tıkla" parameterizedStepValue:"Bildirimleri kapat ve bilet al tıkla"}}
+15-06-2021 23:09:25.523 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.523 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.558 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.558 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.559 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.559 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.583 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.583 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.832 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.857 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.858 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.858 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.858 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.903 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.903 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.903 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.903 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:25.924 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:25.924 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:26.556 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"B"}
+15-06-2021 23:09:26.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"B" parameterizedStepValue:"B"}}
+15-06-2021 23:09:26.568 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+15-06-2021 23:09:26.569 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"step1" parameterizedStepValue:"step1"} allSteps:{stepValue:"step2" parameterizedStepValue:"step2"} allSteps:{stepValue:"{} id li elemente tıkla" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_btnContinue> id li elemente tıkla" parameters:"com.turkishairlines.mobile:id/frFlightSearch_btnContinue"} allSteps:{stepValue:"{} id li elemente {}  değerini yaz" parameterizedStepValue:"<com.turkishairlines.mobile:id/frAirportSelection_etSearch> id li elemente <ESB>  değerini yaz" parameters:"com.turkishairlines.mobile:id/frAirportSelection_etSearch" parameters:"ESB"} allSteps:{stepValue:"{} xpath li elemente tıkla" parameterizedStepValue:"</hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]> xpath li elemente tıkla" parameters:"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]"} allSteps:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element <SORT AND FILTER> değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" parameters:"SORT AND FILTER"}}
+15-06-2021 23:09:26.569 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+15-06-2021 23:09:26.569 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{concepts:{stepValue:{stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading"} filepath:"C:\\Users\\SONER\\Desktop\\Education\\specs\\starting.cpt" lineNumber:4}}
+15-06-2021 23:09:26.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bi"}
+15-06-2021 23:09:26.805 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bi" parameterizedStepValue:"Bi"}}
+15-06-2021 23:09:27.026 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bil"}
+15-06-2021 23:09:27.026 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bil" parameterizedStepValue:"Bil"}}
+15-06-2021 23:09:28.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.505 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.551 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.819 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.819 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.820 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.846 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.846 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.847 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.847 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.871 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.871 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:28.892 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:28.892 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.132 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:09:29.142 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.149 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.149 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:09:29.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.176 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.176 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.176 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.205 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.205 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.256 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.256 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.438 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.438 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.474 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.499 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.499 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.521 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.521 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.563 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.563 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.607 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.807 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.807 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.828 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.828 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:29.849 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:29.849 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.111 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.111 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.111 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.111 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.135 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.135 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.135 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.135 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.432 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.432 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.495 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.495 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.711 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.754 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.754 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.754 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.754 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.780 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:30.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:30.803 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:31.039 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+15-06-2021 23:09:31.040 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"step1" parameterizedStepValue:"step1"} allSteps:{stepValue:"step2" parameterizedStepValue:"step2"} allSteps:{} allSteps:{stepValue:"{} id li elemente tıkla" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_btnContinue> id li elemente tıkla" parameters:"com.turkishairlines.mobile:id/frFlightSearch_btnContinue"} allSteps:{stepValue:"{} id li elemente {}  değerini yaz" parameterizedStepValue:"<com.turkishairlines.mobile:id/frAirportSelection_etSearch> id li elemente <ESB>  değerini yaz" parameters:"com.turkishairlines.mobile:id/frAirportSelection_etSearch" parameters:"ESB"} allSteps:{stepValue:"{} xpath li elemente tıkla" parameterizedStepValue:"</hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]> xpath li elemente tıkla" parameters:"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[1]"} allSteps:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter> id li element <SORT AND FILTER> değerini  içerdiğini kontrol et" parameters:"com.turkishairlines.mobile:id/frFlightSearch_rlSortAndFilter" parameters:"SORT AND FILTER"}}
+15-06-2021 23:09:31.040 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+15-06-2021 23:09:31.040 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{concepts:{stepValue:{stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading"} filepath:"C:\\Users\\SONER\\Desktop\\Education\\specs\\starting.cpt" lineNumber:4}}
+15-06-2021 23:09:47.412 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.413 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.474 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.474 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.497 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.523 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.523 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.713 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.713 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.714 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.742 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.742 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:47.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:09:47.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:09:48.261 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bildirimleri kapat ve bilet al tıkla"}
+15-06-2021 23:09:48.262 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bildirimleri kapat ve bilet al tıkla" parameterizedStepValue:"Bildirimleri kapat ve bilet al tıkla"}}
+15-06-2021 23:09:53.401 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\starting.cpt
+15-06-2021 23:09:53.408 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\starting.cpt
+15-06-2021 23:09:53.415 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:09:53.431 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:12:40.251 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\locationsetting.cpt
+15-06-2021 23:12:40.252 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\locationsetting.cpt
+15-06-2021 23:12:40.255 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\locationsetting.cpt
+15-06-2021 23:13:30.733 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Y"}
+15-06-2021 23:13:30.733 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Y" parameterizedStepValue:"Y"}}
+15-06-2021 23:13:31.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yö"}
+15-06-2021 23:13:31.098 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yö" parameterizedStepValue:"Yö"}}
+15-06-2021 23:13:33.274 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yön seçimini"}
+15-06-2021 23:13:33.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yön seçimini" parameterizedStepValue:"Yön seçimini"}}
+15-06-2021 23:13:34.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yön seçimini yap"}
+15-06-2021 23:13:34.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yön seçimini yap" parameterizedStepValue:"Yön seçimini yap"}}
+15-06-2021 23:13:44.641 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\locationsetting.cpt
+15-06-2021 23:13:44.652 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\locationsetting.cpt
+15-06-2021 23:13:58.433 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:13:58.435 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:13:58.863 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:13:58.879 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:14:02.816 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.816 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.822 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.861 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.861 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.861 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.861 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.861 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:02.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:02.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.124 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.124 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.139 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.169 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.195 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.195 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.219 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.247 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.247 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.248 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.248 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.272 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.273 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.273 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.274 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.274 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.299 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.299 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.299 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.299 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.300 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.300 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.530 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.530 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.573 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.573 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.573 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.573 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:03.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:03.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.866 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.866 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.867 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.867 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.920 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.920 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.948 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.948 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.948 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.948 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.948 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.949 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.949 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.949 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:10.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:10.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.237 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:11.238 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:14:11.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:14:12.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Yön seçimini yap"}
+15-06-2021 23:14:12.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yön seçimini yap" parameterizedStepValue:"Yön seçimini yap"}}
+15-06-2021 23:16:27.931 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\increasepassenger.cpt
+15-06-2021 23:16:27.947 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\increasepassenger.cpt
+15-06-2021 23:16:27.950 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\increasepassenger.cpt
+15-06-2021 23:16:38.978 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" CYolcu sayı"}
+15-06-2021 23:16:38.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"CYolcu sayı" parameterizedStepValue:"CYolcu sayı"}}
+15-06-2021 23:16:39.956 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" CYolcu sayısı"}
+15-06-2021 23:16:39.956 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"CYolcu sayısı" parameterizedStepValue:"CYolcu sayısı"}}
+15-06-2021 23:16:40.713 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" CYolcu sayıs"}
+15-06-2021 23:16:40.713 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"CYolcu sayıs" parameterizedStepValue:"CYolcu sayıs"}}
+15-06-2021 23:16:42.189 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:16:42.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:16:42.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:16:42.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:16:45.325 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı"}
+15-06-2021 23:16:45.325 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı" parameterizedStepValue:"Yolcu sayısı"}}
+15-06-2021 23:16:46.704 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artı"}
+15-06-2021 23:16:46.704 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artı" parameterizedStepValue:"Yolcu sayısı artı"}}
+15-06-2021 23:16:47.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır"}
+15-06-2021 23:16:47.598 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır" parameterizedStepValue:"Yolcu sayısı artır"}}
+15-06-2021 23:16:48.381 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve"}
+15-06-2021 23:16:48.382 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve" parameterizedStepValue:"Yolcu sayısı artır ve"}}
+15-06-2021 23:16:49.530 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve ara"}
+15-06-2021 23:16:49.530 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve ara" parameterizedStepValue:"Yolcu sayısı artır ve ara"}}
+15-06-2021 23:16:50.331 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve arama"}
+15-06-2021 23:16:50.331 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve arama" parameterizedStepValue:"Yolcu sayısı artır ve arama"}}
+15-06-2021 23:16:51.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve arama yap"}
+15-06-2021 23:16:51.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve arama yap" parameterizedStepValue:"Yolcu sayısı artır ve arama yap"}}
+15-06-2021 23:16:55.480 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve çuş yap"}
+15-06-2021 23:16:55.480 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve çuş yap" parameterizedStepValue:"Yolcu sayısı artır ve çuş yap"}}
+15-06-2021 23:16:57.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır veu yap"}
+15-06-2021 23:16:57.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır veu yap" parameterizedStepValue:"Yolcu sayısı artır veu yap"}}
+15-06-2021 23:16:58.696 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve uçuş  yap"}
+15-06-2021 23:16:58.696 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve uçuş  yap" parameterizedStepValue:"Yolcu sayısı artır ve uçuş  yap"}}
+15-06-2021 23:17:31.725 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:17:31.737 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:17:34.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.261 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.266 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.266 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.288 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.288 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve uçuş ara"}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve uçuş ara" parameterizedStepValue:"Yolcu sayısı artır ve uçuş ara"}}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.310 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.310 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.310 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.311 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.311 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.311 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.311 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.311 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.567 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.635 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.637 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.637 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.658 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.658 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:34.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:34.659 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.280 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.308 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.335 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.335 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.335 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.361 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.362 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.386 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.387 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.387 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.387 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.387 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.590 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.641 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.641 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.642 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.642 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.642 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.643 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.643 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.666 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.666 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.666 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.666 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:35.666 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:17:35.666 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:17:36.415 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Yolcu sayısı artır ve uçuş ara"}
+15-06-2021 23:17:36.415 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve uçuş ara" parameterizedStepValue:"Yolcu sayısı artır ve uçuş ara"}}
+15-06-2021 23:17:36.969 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:17:36.985 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:17:54.628 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\increasepassenger.cpt
+15-06-2021 23:17:54.630 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\increasepassenger.cpt
+15-06-2021 23:18:43.518 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:18:43.533 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:18:43.540 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:18:56.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" U"}
+15-06-2021 23:18:56.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"U" parameterizedStepValue:"U"}}
+15-06-2021 23:18:57.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçu"}
+15-06-2021 23:18:57.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçu" parameterizedStepValue:"Uçu"}}
+15-06-2021 23:18:57.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş"}
+15-06-2021 23:18:57.908 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş" parameterizedStepValue:"Uçuş"}}
+15-06-2021 23:18:58.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş lis"}
+15-06-2021 23:18:58.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş lis" parameterizedStepValue:"Uçuş lis"}}
+15-06-2021 23:19:00.039 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelen"}
+15-06-2021 23:19:00.039 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelen" parameterizedStepValue:"Uçuş listelen"}}
+15-06-2021 23:19:02.022 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş liste"}
+15-06-2021 23:19:02.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş liste" parameterizedStepValue:"Uçuş liste"}}
+15-06-2021 23:19:06.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et"}
+15-06-2021 23:19:06.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et" parameterizedStepValue:"Uçuş listelendiğini kontrol et"}}
+15-06-2021 23:19:06.440 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:19:06.442 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:19:10.838 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekom"}
+15-06-2021 23:19:10.838 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekom" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekom"}}
+15-06-2021 23:19:13.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekonomik uçu"}
+15-06-2021 23:19:13.367 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçu" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçu"}}
+15-06-2021 23:19:14.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekonomik uçuş"}
+15-06-2021 23:19:14.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş"}}
+15-06-2021 23:19:14.804 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:19:14.807 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:19:18.647 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekonomik"}
+15-06-2021 23:19:18.648 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik"}}
+15-06-2021 23:19:20.231 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekonomik u"}
+15-06-2021 23:19:20.231 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik u" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik u"}}
+15-06-2021 23:19:21.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}
+15-06-2021 23:19:21.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}}
+15-06-2021 23:19:44.647 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:19:44.655 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:19:45.676 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:19:45.683 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:19:50.770 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}
+15-06-2021 23:19:50.771 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}}
+15-06-2021 23:20:03.079 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:20:03.091 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:20:22.549 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:20:22.558 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:20:22.559 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:20:22.568 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:22:45.580 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"//*[@text='Istanbul, Turkey']\" xpath li elemente tıkla"}
+15-06-2021 23:22:45.580 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} xpath li elemente tıkla" parameterizedStepValue:"* <//*[@text='Istanbul, Turkey']> xpath li elemente tıkla" parameters:"//*[@text='Istanbul, Turkey']"}}
+15-06-2021 23:22:56.011 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:22:56.020 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:26:20.133 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:26:20.145 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:28:03.689 [Gauge] [INFO] Watching directory: C:\Users\SONER\Desktop\Education\specs
+15-06-2021 23:28:03.690 [Gauge] [DEBUG] Found 5 files
+15-06-2021 23:28:03.701 [Gauge] [INFO] Initializing concepts cache with 4 concepts
+15-06-2021 23:28:03.701 [Gauge] [DEBUG] Adding concepts from C:\Users\SONER\Desktop\Education\specs\starting.cpt
+15-06-2021 23:28:03.701 [Gauge] [DEBUG] Adding concepts from C:\Users\SONER\Desktop\Education\specs\checkandget.cpt
+15-06-2021 23:28:03.701 [Gauge] [DEBUG] Adding concepts from C:\Users\SONER\Desktop\Education\specs\increasepassenger.cpt
+15-06-2021 23:28:03.701 [Gauge] [DEBUG] Adding concepts from C:\Users\SONER\Desktop\Education\specs\locationsetting.cpt
+15-06-2021 23:28:03.705 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-06-2021 23:28:03.705 [Gauge] [DEBUG] Adding specs from C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:28:03.705 [Gauge] [INFO] Initializing steps cache with 5 steps
+15-06-2021 23:28:03.705 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53676
+15-06-2021 23:29:16.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bildirimleri kapat ve bilet al tıkla"}
+15-06-2021 23:29:16.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bildirimleri kapat ve bilet al tıkla" parameterizedStepValue:"Bildirimleri kapat ve bilet al tıkla"}}
+15-06-2021 23:29:16.431 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> id li elemente tıkla"}
+15-06-2021 23:29:16.431 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li elemente tıkla" parameterizedStepValue:"<key> id li elemente tıkla" parameters:"key"}}
+15-06-2021 23:29:16.433 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> id li elemente <text>  değerini yaz"}
+15-06-2021 23:29:16.433 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li elemente {}  değerini yaz" parameterizedStepValue:"<key> id li elemente <text>  değerini yaz" parameters:"key" parameters:"text"}}
+15-06-2021 23:29:16.434 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> xpath li elemente tıkla"}
+15-06-2021 23:29:16.434 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} xpath li elemente tıkla" parameterizedStepValue:"<key> xpath li elemente tıkla" parameters:"key"}}
+15-06-2021 23:29:16.435 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> css elementine tıkla "}
+15-06-2021 23:29:16.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} css elementine tıkla" parameterizedStepValue:"<key> css elementine tıkla" parameters:"key"}}
+15-06-2021 23:29:16.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<number> saniye bekle"}
+15-06-2021 23:29:16.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<number> saniye bekle" parameters:"number"}}
+15-06-2021 23:29:16.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> id li element <text> değerini  içerdiğini kontrol et"}
+15-06-2021 23:29:16.438 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} id li element {} değerini  içerdiğini kontrol et" parameterizedStepValue:"<key> id li element <text> değerini  içerdiğini kontrol et" parameters:"key" parameters:"text"}}
+15-06-2021 23:29:16.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yön seçimini yap"}
+15-06-2021 23:29:16.669 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yön seçimini yap" parameterizedStepValue:"Yön seçimini yap"}}
+15-06-2021 23:29:16.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}
+15-06-2021 23:29:16.670 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}}
+15-06-2021 23:29:16.670 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Yolcu sayısı artır ve uçuş ara"}
+15-06-2021 23:29:16.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve uçuş ara" parameterizedStepValue:"Yolcu sayısı artır ve uçuş ara"}}
+15-06-2021 23:29:16.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Bildirimleri kapat ve bilet al tıkla"}
+15-06-2021 23:29:16.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bildirimleri kapat ve bilet al tıkla" parameterizedStepValue:"Bildirimleri kapat ve bilet al tıkla"}}
+15-06-2021 23:29:16.673 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Yön seçimini yap"}
+15-06-2021 23:29:16.674 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yön seçimini yap" parameterizedStepValue:"Yön seçimini yap"}}
+15-06-2021 23:29:16.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Yolcu sayısı artır ve uçuş ara"}
+15-06-2021 23:29:16.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Yolcu sayısı artır ve uçuş ara" parameterizedStepValue:"Yolcu sayısı artır ve uçuş ara"}}
+15-06-2021 23:29:16.844 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}
+15-06-2021 23:29:16.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al" parameterizedStepValue:"Uçuş listelendiğini kontrol et ve ekonomik uçuş al"}}
+15-06-2021 23:32:17.251 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:32:17.254 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:32:51.895 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:32:51.925 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:38:27.313 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\setdata.cpt
+15-06-2021 23:38:27.345 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\setdata.cpt
+15-06-2021 23:38:27.351 [Gauge] [INFO] Concept file added / modified: C:\Users\SONER\Desktop\Education\specs\setdata.cpt
+15-06-2021 23:38:30.130 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"step1"}
+15-06-2021 23:38:30.131 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"step1" parameterizedStepValue:"step1"}}
+15-06-2021 23:38:30.324 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Concept Heading"}
+15-06-2021 23:38:30.324 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading"}}
+15-06-2021 23:38:30.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"step2"}
+15-06-2021 23:38:30.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"step2" parameterizedStepValue:"step2"}}
+15-06-2021 23:38:34.378 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tari"}
+15-06-2021 23:38:34.378 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tari" parameterizedStepValue:"Tari"}}
+15-06-2021 23:38:35.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tarihi"}
+15-06-2021 23:38:35.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tarihi" parameterizedStepValue:"Tarihi"}}
+15-06-2021 23:38:36.872 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tarihi 2"}
+15-06-2021 23:38:36.872 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tarihi 2" parameterizedStepValue:"Tarihi 2"}}
+15-06-2021 23:38:39.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tarihi 2 gün ileri"}
+15-06-2021 23:38:39.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tarihi 2 gün ileri" parameterizedStepValue:"Tarihi 2 gün ileri"}}
+15-06-2021 23:38:40.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Tarihi 2 gün ileri ayarlla"}
+15-06-2021 23:38:40.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tarihi 2 gün ileri ayarlla" parameterizedStepValue:"Tarihi 2 gün ileri ayarlla"}}
+15-06-2021 23:38:56.276 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:38:56.285 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:38:57.347 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.426 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.663 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.663 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.673 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.674 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.675 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.727 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.727 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.727 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.727 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.728 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.728 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.729 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.759 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.759 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.759 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.790 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+15-06-2021 23:38:57.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+15-06-2021 23:38:58.120 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Tarihi 2 gün ileri ayarla"}
+15-06-2021 23:38:58.121 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Tarihi 2 gün ileri ayarla" parameterizedStepValue:"Tarihi 2 gün ileri ayarla"}}
+15-06-2021 23:39:29.051 [Gauge] [INFO] Concept file removed: C:\Users\SONER\Desktop\Education\specs\setdata.cpt
+15-06-2021 23:39:36.435 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec
+15-06-2021 23:39:36.437 [Gauge] [INFO] Spec file added / modified: C:\Users\SONER\Desktop\Education\specs\main.spec

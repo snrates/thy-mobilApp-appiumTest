@@ -1,0 +1,7 @@
+Created by SONER on 15.06.2021
+
+This is a concept file with following syntax for each concept.
+# Bildirimleri kapat ve bilet al tıkla
+* "com.android.packageinstaller:id/permission_allow_button" id li elemente tıkla
+* "com.turkishairlines.mobile:id/frPrivacy_btnAccept" id li elemente tıkla
+* "com.turkishairlines.mobile:id/acMain_btnBooking" id li elemente tıkla
