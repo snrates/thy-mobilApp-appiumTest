@@ -3,4 +3,6 @@ Created by SONER on 15.06.2021
 This is a concept file with following syntax for each concept.
 # Yolcu sayısı artır ve uçuş ara
 * "//*[@text='5']" xpath li elemente tıkla
+* "1" saniye bekle
 * "com.turkishairlines.mobile:id/frDashboard_btnSearch" id li elemente tıkla
+* "1" saniye bekle

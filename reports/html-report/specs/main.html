@@ -31,11 +31,11 @@
    
   <div class="report_chart">
     <div class="chart">
-      <svg id="pie-chart" data-results="0,1,0" data-total="1">
+      <svg id="pie-chart" data-results="1,0,0" data-total="1">
         <path class="status failed" />
-        <path class="shadow failed" data-status="failed"><title>Failed: 0/1</title></path>
+        <path class="shadow failed" data-status="failed"><title>Failed: 1/1</title></path>
         <path class="status passed" />
-        <path class="shadow passed" data-status="passed"><title>Passed: 1/1</title></path>
+        <path class="shadow passed" data-status="passed"><title>Passed: 0/1</title></path>
         <path class="status skipped" />
         <path class="shadow skipped" data-status="skipped"><title>Skipped: 0/1</title></path>
       </svg>
@@ -46,14 +46,14 @@
   <div class="report_test-results">
     <div class="report_test-result specs">
         <div class="total-specs" title="Filter all specs"><span class="txt">Total specs</span><span class="value">1</span></div>
-        <div class="fail spec-filter" data-status="failed" title="Filter failed specs"><span class="value">0</span></div>
-        <div class="pass spec-filter" data-status="passed" title="Filter passed specs"><span class="value">1</span></div>
+        <div class="fail spec-filter" data-status="failed" title="Filter failed specs"><span class="value">1</span></div>
+        <div class="pass spec-filter" data-status="passed" title="Filter passed specs"><span class="value">0</span></div>
         <div class="skip spec-filter" data-status="skipped" title="Filter skipped specs"><span class="value">0</span></div>
     </div>
     <div class="report_test-result scenarios">
         <div class="total-scenarios"><span class="txt">Total scenario</span><span class="value">1</span></div>
-        <div class="fail scenario-stats" data-status="failed"><span class="value">0</span></div>
-        <div class="pass scenario-stats" data-status="passed"><span class="value">1</span></div>
+        <div class="fail scenario-stats" data-status="failed"><span class="value">1</span></div>
+        <div class="pass scenario-stats" data-status="passed"><span class="value">0</span></div>
         <div class="skip scenario-stats" data-status="skipped"><span class="value">0</span></div>
     </div>
   </div>
@@ -68,15 +68,15 @@
     
     <li>
       <label>Success Rate </label>
-      <span>100%</span>
+      <span>0%</span>
     </li>
     <li>
       <label>Total Time </label>
-      <span>00:00:53</span>
+      <span>00:00:04</span>
     </li>
     <li>
       <label>Generated On </label>
-      <span>Jun 15, 2021 at 11:33pm</span>
+      <span>Jun 16, 2021 at 2:58pm</span>
     </li>
   </ul>
 
@@ -114,11 +114,11 @@
         <ul id="scenarios" class="spec-list">
         
           <a href="main.html">
-             
-              <li class="passed spec-name">
+            
+              <li class="failed spec-name">
             
               <span id="scenarioName" class="scenarioname">Specification Heading</span>
-              <span id="time" class="time">00:00:53</span>
+              <span id="time" class="time">00:00:03</span>
             </li>
           </a>
           
@@ -136,8 +136,8 @@
         <h3 class="spec-head" title="C:\Users\SONER\Desktop\Education\specs\main.spec">Specification Heading</h3>
         <div class="hidden report_test-results" alt="Scenarios" title="Scenarios">
           <ul>
-            <li class="fail"><span class="value">0</span><span class="txt">Failed</span></li>
-            <li class="pass"><span class="value">1</span><span class="txt">Passed</span></li>
+            <li class="fail"><span class="value">1</span><span class="txt">Failed</span></li>
+            <li class="pass"><span class="value">0</span><span class="txt">Passed</span></li>
             <li class="skip"><span class="value">0</span><span class="txt">Skipped</span></li>
           </ul>
         </div>
@@ -150,7 +150,7 @@
               <i class="fa fa-clipboard" aria-hidden="true" title="Copy to Clipboard"></i>
           </button>
         </div>
-        <span class="time">00:00:53</span>
+        <span class="time">00:00:03</span>
       </div>
 
 	
@@ -182,14 +182,14 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       
         
 	
-  <div class="scenario-container passed">
+  <div class="scenario-container failed">
     
 
 	
   <div class="scenario-head">
     <h3 class="head borderBottom">Scenario Heading</h3>
     
-    <span class="time">00:00:53</span>
+    <span class="time">00:00:03</span>
 
 	
   
@@ -203,6 +203,30 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
   
 	
+		
+  <div class="error-container failed">
+    <div class="error-heading">Before Scenario Failed:<span class="error-message"> org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.<br/>Build info: version: &#39;2.53.1&#39;, revision: &#39;a36b8b1cd5757287168e54b817830adce9b0158d&#39;, time: &#39;2016-06-30 19:26:09&#39;<br/>System info: host: &#39;DESKTOP-D8EHACN&#39;, ip: &#39;192.168.0.108&#39;, os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;1.8.0_291&#39;<br/>Driver info: driver.version: AndroidDriver</span></div>
+    <div class="toggle-show">
+      [Show details]
+    </div>
+    <div class="exception-container hidden">
+      <div class="exception">
+        <pre class="stacktrace">org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)<br/>io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:40)<br/>io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)<br/>io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)<br/>org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:249)<br/>org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)<br/>org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)<br/>io.appium.java_client.DefaultGenericMobileDriver.&lt;init&gt;(DefaultGenericMobileDriver.java:36)<br/>io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:114)<br/>io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:132)<br/>io.appium.java_client.android.AndroidDriver.&lt;init&gt;(AndroidDriver.java:92)<br/>BaseTest.beforeScenario(BaseTest.java:41)<br/></pre>
+      </div>
+      
+        <div class="screenshot-container">
+          <div class="screenshot">
+            <a href="../images/screenshot-f0a2ebff-6309-40bb-9db6-89e008e9b11c.png" rel="lightbox">
+              <img src="../images/screenshot-f0a2ebff-6309-40bb-9db6-89e008e9b11c.png" class="screenshot-thumbnail" />
+            </a>
+          </div>
+        </div>
+      
+      
+    </div>
+  </div>
+
+	
 
   
   
@@ -214,10 +238,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:10</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -246,10 +270,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:04</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -313,10 +337,77 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:03</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"5"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -380,10 +471,77 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:03</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"5"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -439,6 +597,73 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
 
   
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"2"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
   </div>
 
   
@@ -452,10 +677,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:13</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -484,10 +709,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:03</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -551,10 +776,77 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:03</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"1"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -621,7 +913,74 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"1"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -698,7 +1057,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -762,10 +1121,77 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:03</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"1"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -832,7 +1258,74 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"1"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -909,7 +1402,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -978,10 +1471,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:05</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1010,10 +1503,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:01</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1077,10 +1570,77 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:03</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"1"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1136,6 +1696,73 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
 
   
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"1"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
   </div>
 
   
@@ -1149,10 +1776,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:05</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1184,7 +1811,74 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"5"</span>
+    
+  
+    
+      <span>
+         saniye bekle
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1261,7 +1955,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1328,7 +2022,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
       <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1392,10 +2086,10 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
   
   
     <h5 class="execution-time">
-      <span class="time">Execution Time : 00:00:04</span>
+      <span class="time">Execution Time : 00:00:00</span>
     </h5>
   
-  <div class="step-info passed">
+  <div class="step-info not-executed">
   
   <ul>
     <li class="step">
@@ -1420,6 +2114,73 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
     
       <span>
          id li elemente tıkla
+      </span>
+    
+  
+  </div>
+
+  
+    
+    
+  
+
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+	</li></ul></div></div>
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+  <div class="step">
+  
+  
+    <h5 class="execution-time">
+      <span class="time">Execution Time : 00:00:00</span>
+    </h5>
+  
+  <div class="step-info not-executed">
+  
+  <ul>
+    <li class="step">
+      <div class="step-txt">
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+      <span class="parameter">"2"</span>
+    
+  
+    
+      <span>
+         saniye bekle
       </span>
     
   

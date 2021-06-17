@@ -21,14 +21,13 @@ public class BaseTest {
     protected static Selector selector ;
     @BeforeScenario
     public void beforeScenario() throws MalformedURLException {
-        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!Test basliyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+
         if (StringUtils.isEmpty(System.getenv("key"))) {
             if (localAndroid) {
                 DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
                 desiredCapabilities
                         .setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
-                // desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "android");
                 desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator-5554");
                 desiredCapabilities
                         .setCapability(AndroidMobileCapabilityType.APP_PACKAGE,
@@ -37,10 +36,6 @@ public class BaseTest {
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
                                 "com.turkishairlines.mobile.ui.main.MainActivity");
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
-                //desiredCapabilities
-                //      .setCapability(MobileCapabilityType.NO_RESET, true);
-                // desiredCapabilities
-                //       .setCapability(MobileCapabilityType.FULL_RESET, false);
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3000);
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 appiumDriver = new AndroidDriver(url, desiredCapabilities);
@@ -58,7 +53,7 @@ public class BaseTest {
                 desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "lokaldeki telefon version bilgisini gir");
                 desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
-                appiumDriver = new IOSDriver(url, desiredCapabilities);
+                appiumDriver = new IOSDriver<>(url, desiredCapabilities);
             }
         } else {
             String hubURL = "http://hub.testinium.io/wd/hub";
@@ -79,7 +74,7 @@ public class BaseTest {
                 capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
                 capabilities.setCapability("unicodeKeyboard", true);
                 capabilities.setCapability("resetKeyboard", true);
-                appiumDriver = new AndroidDriver(new URL(hubURL), capabilities);
+                appiumDriver = new AndroidDriver<>(new URL(hubURL), capabilities);
                 localAndroid = true;
             } else {
                 localAndroid=false;
@@ -91,7 +86,7 @@ public class BaseTest {
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", false);
                 capabilities.setCapability("autoAcceptAlerts",true);
-                appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
+                appiumDriver = new IOSDriver<>(new URL(hubURL), capabilities);
             }
         }
     }

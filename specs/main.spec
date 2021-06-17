@@ -9,6 +9,6 @@ Scenario Heading
 ----------------
 * Bildirimleri kapat ve bilet al tıkla
 * Yön seçimini yap
-//* Tarihi 2 gün ileri ayarla 
+//* Tarih seçimini yap
 * Yolcu sayısı artır ve uçuş ara
 * Uçuş listelendiğini kontrol et ve ekonomik uçuş al

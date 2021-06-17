@@ -8,8 +8,8 @@ public class StepImplementation extends BaseTest {
 
     @Step("<key> id li elemente tıkla")
     public void clickBYid(String key) throws InterruptedException {
-        By.id(key).findElement(appiumDriver).click();
-        Thread.sleep(3000);
+        appiumDriver.findElement(By.id(key)).click();
+        //Thread.sleep(2500);
     }
 
     @Step("<key> id li elemente <text>  değerini yaz")
@@ -22,11 +22,6 @@ public class StepImplementation extends BaseTest {
         appiumDriver.findElement(By.xpath(key)).click();
     }
 
-    @Step("<key> css elementine tıkla ")
-    public void clickEl(String key){
-        appiumDriver.findElement(By.cssSelector(key)).click();
-    }
-
     @Step("<number> saniye bekle")
     public void waitForSeceond(int number) throws InterruptedException {
         Thread.sleep(number * 1000);
@@ -34,6 +29,7 @@ public class StepImplementation extends BaseTest {
 
     @Step("<key> id li element <text> değerini  içerdiğini kontrol et")
     public void CheckElement(String key, String text) {
-        Assert.assertFalse(appiumDriver.findElement(By.id(key)).getText().equals(text));
+        Assert.assertFalse("içerme", appiumDriver.findElement(By.id(key)).getText().equals(text));
     }
+
 }
